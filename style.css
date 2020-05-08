@@ -1,0 +1,34 @@
+#body{
+    background-image: url('mybg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#name{
+    background: linear-gradient(skyblue, gray);
+    opacity: 80%;
+    text-align: justify;
+    
+}
+#port{
+    width: 50%;
+    background: radial-gradient(skyblue, rgb(78, 76, 76));
+    text-align: justify;
+    /* margin: 10px 10px 10px 10px; */
+    /* opacity: 60%; */
+}
+    
+h1{
+    text-align: center;
+    text-decoration: lavenderblush;
+    color: white;
+    
+}
+#a1{
+    text-align: center;
+
+}
+img{
+    box-shadow: 3px 3px 3px 3px darkslategray;
+    opacity: 100%;
+}

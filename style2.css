@@ -1,0 +1,17 @@
+form{
+    background-color: blueviolet;
+    border-style: double;
+    border-radius: 2%;
+margin-inline-start: 0.5in;
+margin-inline-end: 0.5in;    
+  color: aliceblue;
+}
+h1{
+    color: blueviolet;
+}
+#saylani{
+  text-align: center;
+}
+#button{
+  text-align: center;
+}
